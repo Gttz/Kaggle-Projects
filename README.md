@@ -48,21 +48,7 @@ Esses dados foram extraídos do banco de dados do censo de 1994 por Ronny Kohavi
 
 Os recursos são calculados a partir de uma imagem digitalizada de um aspirado por agulha fina (FNA) de uma massa mamária. Eles descrevem as características dos núcleos celulares presentes na imagem. O objetivo deste projeto é utilizar Redes Neurais Artificiais para realizar um diagnóstico de câncer de mama que prevê se um tumor é maligno ou se um tumor é benigno.
 
-### 4] - Classificação de imagens de Gatos e Cachorros utilizando Redes Neurais Convolucionais
-
-###### Notebook:
-
-  - [cats-dogs_prediction_CNN](https://www.kaggle.com/lucasar/cats-dogs-prediction-cnn-95-acc)
-
-###### Dataset:
-
-  - https://www.kaggle.com/chetankv/dogs-cats-images
-
-###### Descrição:
-
-Os dados foram coletados para treinar um modelo para distinguir entre as imagens que contêm cachorros e gatos, então todo o problema é de classificação binária. O objetivo deste projeto é utilizar Redes Neurais Artificiais Convolucionais para realizar a classificação de imagens de gatos e cachorros.
-
-### 5] - Classificação das plantas da íris de três tipos diferentes (Iris-Versicolor, Iris-Setosa e Iris-Virginica)
+### 4] - Classificação das plantas da íris de três tipos diferentes (Iris-Versicolor, Iris-Setosa e Iris-Virginica)
 
 ###### Notebook:
 
@@ -75,3 +61,31 @@ Os dados foram coletados para treinar um modelo para distinguir entre as imagens
 ###### Descrição:
 
 O Dataset inclui três espécies de íris com 50 amostras cada, bem como algumas propriedades sobre cada flor. Uma espécie de flor é linearmente separável das outras duas, mas as outras duas não são linearmente separáveis uma da outra. O objetivo deste projeto é utilizar Redes Neurais Artificiais para realizar a classificação de três tipos de plantas (Iris-Versicolor, Iris-Setosa e Iris-Virginica).
+
+### 5] - Classificação de imagens de Gatos e Cachorros utilizando Redes Neurais Convolucionais
+
+###### Notebook:
+
+  - [cats-dogs_prediction_CNN](https://www.kaggle.com/lucasar/cats-dogs-prediction-cnn-95-acc)
+
+###### Dataset:
+
+  - https://www.kaggle.com/chetankv/dogs-cats-images
+
+###### Descrição:
+
+Os dados foram coletados para treinar um modelo para distinguir entre as imagens que contêm cachorros e gatos, então todo o problema é de classificação binária. O objetivo deste projeto é utilizar Redes Neurais Convolucionais para realizar a classificação de imagens de gatos e cachorros.
+
+### 6] - Detecção de Incêndios Florestais utilizando Redes Neurais Convolucionais
+
+###### Notebook:
+
+  - [Forest-Fire_Detection_CNN](https://www.kaggle.com/lucasar/forest-fire-detection-cnn)
+
+###### Dataset:
+
+  - https://www.kaggle.com/phylake1337/fire-dataset
+
+###### Descrição:
+
+Os dados foram coletados para treinar um modelo para distinguir entre as imagens que contêm fogo (imagens de fogo) e imagens regulares (imagens que não são de fogo), então todo o problema é de classificação binária. O objetivo deste projeto é utilizar Redes Neurais Convolucionais para realizar a classificação de imagens de fogo ao ar livre (algumas delas contendo fumaça) e imagens da natureza (por exemplo: florestas, árvores, gramas, rios, pessoas, lagos, animais, estradas e cachoeiras).
