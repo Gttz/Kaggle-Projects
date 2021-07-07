@@ -74,7 +74,7 @@ O Dataset inclui três espécies de íris com 50 amostras cada, bem como algumas
 
 ###### Descrição:
 
-Os dados foram coletados para treinar um modelo para distinguir entre as imagens que contêm cachorros e gatos, então todo o problema é de classificação binária. O objetivo deste projeto é utilizar Redes Neurais Convolucionais para realizar a classificação de imagens de gatos e cachorros.
+Os dados foram coletados para treinar um modelo para distinguir entre as imagens que contêm cachorros e gatos, então todo o problema é de classificação binária. O objetivo deste projeto é utilizar modelos de Redes Neurais Convolucionais para realizar a classificação de imagens de gatos e cachorros.
 
 ### 6] - Detecção de Incêndios Florestais utilizando Redes Neurais Convolucionais
 
@@ -88,4 +88,19 @@ Os dados foram coletados para treinar um modelo para distinguir entre as imagens
 
 ###### Descrição:
 
-Os dados foram coletados para treinar um modelo para distinguir entre as imagens que contêm fogo (imagens de fogo) e imagens regulares (imagens que não são de fogo), então todo o problema é de classificação binária. O objetivo deste projeto é utilizar Redes Neurais Convolucionais para realizar a classificação de imagens de fogo ao ar livre (algumas delas contendo fumaça) e imagens da natureza (por exemplo: florestas, árvores, gramas, rios, pessoas, lagos, animais, estradas e cachoeiras).
+Os dados foram coletados para treinar um modelo para distinguir entre as imagens que contêm fogo (imagens de fogo) e imagens regulares (imagens que não são de fogo), então todo o problema é de classificação binária. O objetivo deste projeto é utilizar modelos de Redes Neurais Convolucionais para realizar a classificação de imagens de fogo ao ar livre (algumas delas contendo fumaça) e imagens da natureza (por exemplo: florestas, árvores, gramas, rios, lagos, animais, estradas e cachoeiras).
+
+
+### 7] - Detecção de Olhos Femininos e Masculinos usando Redes Neurais Convolucionais
+
+###### Notebook:
+
+  - [detection-of-male-female-eyes](https://www.kaggle.com/lucasar/detection-of-male-female-eyes-convnet-92-acc)
+
+###### Dataset:
+
+  - https://www.kaggle.com/pavelbiz/eyes-rtte
+
+###### Descrição:
+
+Os dados foram coletados para treinar um modelo para distinguir entre as imagens que contêm imagens com olhos femininos e masculinos, então todo o problema é de classificação binária. O objetivo deste projeto é utilizar modelos de Redes Neurais Convolucionais (ConvNet, Inception, Xception & MobileNet) para realizar a classificação das imagens.
