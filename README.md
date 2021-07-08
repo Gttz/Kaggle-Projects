@@ -104,3 +104,18 @@ Os dados foram coletados para treinar um modelo para distinguir entre as imagens
 ###### Descrição:
 
 Os dados foram coletados para treinar um modelo para distinguir entre as imagens que contêm imagens com olhos femininos e masculinos, então todo o problema é de classificação binária. O objetivo deste projeto é utilizar modelos de Redes Neurais Convolucionais (ConvNet, Inception, Xception & MobileNet) para realizar a classificação das imagens.
+
+
+### 7] - Detecção de imagens contendo veículos ou não utilizando Redes Neurais Convolucionais
+
+###### Notebook:
+
+  - [vehicle-detection](https://www.kaggle.com/lucasar/vehicle-detection-inception-xception-mobilenet)
+
+###### Dataset:
+
+  - https://www.kaggle.com/brsdincer/vehicle-detection-image-set
+
+###### Descrição:
+
+Os dados foram coletados para treinar um modelo para distinguir entre imagens contendo veículos e imagens sem veículos, então todo o problema é a classificação binária. O objetivo deste projeto é utilizar modelos de Redes Neurais Convolucionais (Inception, Xception & MobileNet) para realizar a classificação das imagens.
